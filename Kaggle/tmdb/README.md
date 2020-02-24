@@ -13,7 +13,11 @@ Then, there is a directory where there are report of our projects (and the expla
 
 ### Context
  
-It is hard for movie industry to know whether a movie will have success or not. Nevertheless, it seems that some companies have found a way to attract spectators. But there are still cases where high budget films are flopping and vice versa. The public has a lot of different interests, and some films succeeded whereas no one would have predicted that. Thus, some actors or companies seem to be enjoyed a lot, more than others. In this case, are there rules that can be made to say if a movie will be accepted to its public ?
+It is hard for movie industry to know whether a movie will have success or not.
+Nevertheless, it seems that some companies have found a way to attract spectators. But there are still cases where high budget films are flopping and vice versa. 
+The public has a lot of different interests, and some films succeeded whereas no one would have predicted that. 
+Thus, some actors or companies seem to be enjoyed a lot, more than others. 
+In this case, are there rules that can be made to say if a movie will be accepted to its public ?
 
 ### Dataset
  
