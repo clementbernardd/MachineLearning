@@ -31,9 +31,13 @@ We used a dataset from Kaggle. This dataset comes from TMDb which is one of the 
 
 
 
+### Preprocessing
 
 
-### Pre-processing
+
+
+
+
 
 
 
