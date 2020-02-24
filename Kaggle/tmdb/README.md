@@ -31,12 +31,11 @@ We used a dataset from Kaggle. This dataset comes from TMDb which is one of the 
 
 
 
-### Preprocessing
+###   Pre-processing
 
 
 
-
-The pre-processing work is detailed in Results/middleproject.pdf. You can also run the notebook in Model/successmovie.ipynb. 
+The pre-processing work is detailed in Results/middle_project.pdf. You can also run the notebook in Model/success_movie.ipynb. 
 There is also a way to see the results of the notebook with the html version in Results/Preprocessing.html. 
 To summarize quickly the work done, we tried to get the best of our features by creating new features, deleting the useless ones (or the ones that we didn't want to treat because of a lack of time, such as the strings). Then we also used K encoding for few features. 
 
