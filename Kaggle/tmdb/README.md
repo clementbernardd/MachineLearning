@@ -28,7 +28,8 @@ In this case, are there rules that can be made to say if a movie will be accepte
  
 We used a dataset from Kaggle. This dataset comes from TMDb which is one of the most popular source for movie contents. It contains around 5000 different movies and 30 features. These features are divided into 2 csv files. One for the general information about the movie (budget, gender, language, title, …) and the other one for more details (like the casting). We also used a dataset from Kaggle with Oscar results.
 
-### Preprocessing
+
+### Pre-processing
 
 
 
