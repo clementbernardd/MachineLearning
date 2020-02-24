@@ -15,10 +15,12 @@ Then, there is a directory where there are report of our projects (and the expla
  
 It is hard for movie industry to know whether a movie will have success or not. Nevertheless, it seems that some companies have found a way to attract spectators. But there are still cases where high budget films are flopping and vice versa. The public has a lot of different interests, and some films succeeded whereas no one would have predicted that. Thus, some actors or companies seem to be enjoyed a lot, more than others. In this case, are there rules that can be made to say if a movie will be accepted to its public ?
 
-### Dataset 
+### Dataset
+ 
 We used a dataset from Kaggle. This dataset comes from TMDb which is one of the most popular source for movie contents. It contains around 5000 different movies and 30 features. These features are divided into 2 csv files. One for the general information about the movie (budget, gender, language, title, …) and the other one for more details (like the casting). We also used a dataset from Kaggle with Oscar results.
 
 ### Pre-processing
+
 The pre-processing work is detailed in Results/middle_project.pdf. You can also run the notebook in Model/success_movie.ipynb. 
 There is also a way to see the results of the notebook with the html version in Results/Preprocessing.html. 
 To summarize quickly the work done, we tried to get the best of our features by creating new features, deleting the useless ones (or the ones that we didn't want to treat because of a lack of time, such as the strings). Then we also used K encoding for few features. 
