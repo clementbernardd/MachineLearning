@@ -19,7 +19,12 @@ The public has a lot of different interests, and some films succeeded whereas no
 Thus, some actors or companies seem to be enjoyed a lot, more than others. 
 In this case, are there rules that can be made to say if a movie will be accepted to its public ?
 
-### Dataset
+
+
+
+### Dataset
+
+
  
 We used a dataset from Kaggle. This dataset comes from TMDb which is one of the most popular source for movie contents. It contains around 5000 different movies and 30 features. These features are divided into 2 csv files. One for the general information about the movie (budget, gender, language, title, …) and the other one for more details (like the casting). We also used a dataset from Kaggle with Oscar results.
 
