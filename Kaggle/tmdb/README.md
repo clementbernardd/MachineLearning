@@ -46,7 +46,7 @@ Note that the results described were quite different from those obtained in the 
 To summarize, we used supervised regression and classification with different models. We didn't focus on how to perform the best of each model, but a way to compare and to test each model to have a general idea. In this case, we used a multi layer regressor or classifier but we knew that it wasn't quite relevant because we didn't take time to get the best hyperparameters. 
 
 
-### Results
+### Results
 
 
 The results are described either on Results/finaleReport.pdf or in the notebook. It seems that the best result was after using all the data (that is to see not spliting the data by genre) with a linear regression. 
